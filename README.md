@@ -36,14 +36,6 @@ These topics form the core concepts of Object-Oriented Programming and are cruci
 
 ## Additional Resources
 
-Here are some additional resources to explore these topics further:
-
-- [C++ Documentation](https://en.cppreference.com/w/)
-- Books:
-  - "Design Patterns: Elements of Reusable Object-Oriented Software" by Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
-  - "Effective C++" by Scott Meyers
-  - "Clean Code: A Handbook of Agile Software Craftsmanship" by Robert C. Martin
-  
-## Contributing
+Will upload later.
 
 Contributions are welcome! If you have suggestions, improvements, or additional topics that can enhance this repository, feel free to open an issue or create a pull request.
